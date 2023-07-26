@@ -1,1 +1,4 @@
 # BSc_AnalisiDeiDati_conR
+Il file "Homework_ADES_2022.R" contiene lo svolgimento dell'homework assegnato dal professore Espa Giuseppe, titolare del corso "Analisi dei dati e statistica" (2022), erogato al primo anno del percorso triennale in Economia e Management presso l'Università degli Studi di Trento. È possibile trovare le consegne degli esercizi con i relativi dataset utilizzati al seguente link: https://drive.google.com/drive/folders/1NBCYv2vQ1IwtkR5tfKxg-vIgMGS6oSJ2?usp=drive_link.
+
+Il file "Homework_SPEI_2023.R" contiene lo svolgimento dell'homework assegnato dal professore Espa Giuseppe, titolare del corso "Statistica, probabilità e inferenza" (2023), erogato al secondo anno del percorso triennale in Economia e Management presso l'Università degli Studi di Trento. È possibile trovare le consegne degli esercizi con i relativi dataset utilizzati al seguente link: https://drive.google.com/drive/folders/184252rQH7I7JW8WMIgrudsU8Jlkf6uNs?usp=drive_link.
